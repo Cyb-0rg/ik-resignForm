@@ -1,5 +1,5 @@
 Now run:
 
-  cd vite-app
+  cd frontend
   npm install
   npm run dev
